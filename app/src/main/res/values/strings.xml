@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">ItsAMe</string>
+    <string name="appwidget_text">ItsAMe_Widget</string>
+    <string name="add_widget">Add widget</string>
+    <string name="app_widget_description">
+        Widget Sencillo que muestra diferentes imagenes con diferentes estados de animo
+    </string>
+
+    <string name="img_selector_title">Elige un estado</string>
+    <string name="prefs_name">WidgetPrefs</string>
+    <string name="pref_selected_image">selected_image</string>
+
+    <array name="titles">
+        <item> IM CAFEINATED </item>
+        <item> IM DEPRESSION </item>
+        <item> IM DESVIVITION </item>
+        <item> IM DISTRACTED </item>
+        <item> IM GAMER </item>
+        <item> IM HUNGER </item>
+        <item> IM INSPIRED </item>
+        <item> IM TIRED </item>
+        <item> ALEATORIO (Cambia cada rato!) </item>
+    </array>
+
+    <string name="inapp_text">
+        Aquí no hay nada que hacer.\nUsa el Widget que viene instalado con la app
+    </string>
+</resources>
