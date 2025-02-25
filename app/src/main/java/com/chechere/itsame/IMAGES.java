@@ -1,7 +1,5 @@
 package com.chechere.itsame;
 
-import android.content.Context;
-
 import java.util.Random;
 
 /**
@@ -17,6 +15,7 @@ public class IMAGES {
             R.drawable.im_hunger,
             R.drawable.im_inspired,
             R.drawable.im_tired,
+            R.drawable.im_calm,
     };
 
     private static final Random rnd = new Random();
