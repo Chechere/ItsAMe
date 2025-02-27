@@ -18,8 +18,16 @@
         <item> IM GAMER </item>
         <item> IM HUNGER </item>
         <item> IM INSPIRED </item>
-        <item> IM TIRED </item>
-        <item> IM CALM</item>
+        <item> IM MENTALLY TIRED </item>
+        <item> IM PHYSICALLY TIRED </item>
+        <item> IM CALM </item>
+        <item> IM ANGRY </item>
+        <item> IM DEFENESTRATION </item>
+        <item> IM HAPPINESS </item>
+        <item> IM ILLNESS </item>
+        <item> IM SAD </item>
+        <item> IM SLIGHT WELL BEING </item>
+        <item> IM STRESS </item>
         <item> ALEATORIO (Cambia cada rato!) </item>
     </array>
 
