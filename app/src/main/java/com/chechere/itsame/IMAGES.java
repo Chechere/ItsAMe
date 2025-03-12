@@ -23,7 +23,9 @@ public class IMAGES {
             R.drawable.im_illness,
             R.drawable.im_sad,
             R.drawable.im_slight_well_being,
-            R.drawable.im_stress
+            R.drawable.im_stress,
+            R.drawable.im_sarcasm,
+            R.drawable.im_suspicious
     };
 
     private static final Random rnd = new Random();
