@@ -17,6 +17,7 @@ public class IMAGES {
             R.drawable.im_m_tired,
             R.drawable.im_p_tired,
             R.drawable.im_calm,
+            R.drawable.im_chillin,
             R.drawable.im_angry,
             R.drawable.im_defenestration,
             R.drawable.im_happiness,
@@ -25,7 +26,8 @@ public class IMAGES {
             R.drawable.im_slight_well_being,
             R.drawable.im_stress,
             R.drawable.im_sarcasm,
-            R.drawable.im_suspicious
+            R.drawable.im_suspicious,
+            R.drawable.im_romantik
     };
 
     private static final Random rnd = new Random();
