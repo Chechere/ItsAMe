@@ -46,5 +46,5 @@ Esta aplicación a sido diseñada en Android Studio, por lo que necesitarás ins
 ## Creditos
 Aplicacion creada por César Tejero ([github](https://github.com/Chechere)).
 
-Diseños de Daniel Prieto
+Diseños de Daniel Prieto ([github](https://github.com/daniwhynot))
 
