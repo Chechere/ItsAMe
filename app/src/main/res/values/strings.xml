@@ -32,10 +32,21 @@
         <item> IM SARCASM </item>
         <item> IM SUSPICIOUS </item>
         <item> IM ROMANTIK </item>
+        <item> IM DUCKING </item>
+        <item> IM EMBARRASSED </item>
+        <item> IM CHEEKY </item>
+        <item> IM COOKING </item>
         <item> ALEATORIO (Cambia cada rato!) </item>
     </array>
 
     <string name="inapp_text">
-        Aquí no hay nada que hacer.\nUsa el Widget que viene instalado con la app
+        Aquí no hay nada que hacer.\n
+        Usa el Widget que viene instalado con la app
+    </string>
+
+    <string name="creditos">
+        Creditos:\n
+        Programación: César Tejero\n
+        Diseño Estados: Daniel Prieto
     </string>
 </resources>
