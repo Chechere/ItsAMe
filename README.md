@@ -38,8 +38,13 @@ Necesitaras tener Git instalado en tu ordenador para poder descargar y gestionar
 Esta aplicación a sido diseñada en Android Studio, por lo que necesitarás instalarlo previamente si quieres modificar el proyecto de manera comoda y sencilla: [Link a la pagina web de Android Studio](https://developer.android.com/studio)
 
 ### Descargar el proyecto
-1. Abra la aplicación Android Studio. Si ya tenia algún proyecto anterior abierto, acuedese de cerrarlo primero (File -> Close Proyect)
+1. Abra la aplicación Android Studio. Si ya tenia algún proyecto anterior abierto, acuerdese de cerrarlo primero (File -> Close Proyect)
 2. Haga click en "Get From VCS"
 3. En la sección Repository URL, en la parte de URL pegue la URL de este repositorio `https://github.com/Chechere/ItsAMe.git`
 4. Haga click en "Clone" (El proceso de clonación en Android Studio puede llevar bastante rato, !Ten paciencia¡)
+
+## Creditos
+Aplicacion creada por César Tejero ([github](https://github.com/Chechere)).
+
+Diseños de Daniel Prieto ([github](https://github.com/daniwhynot))
 
