@@ -31,7 +31,9 @@ public class IMAGES {
             R.drawable.im_ducking,
             R.drawable.im_embarrased,
             R.drawable.im_cheeky,
-            R.drawable.im_cooking
+            R.drawable.im_cooking,
+            R.drawable.im_working,
+            R.drawable.im_relaxed
     };
 
     private static final Random rnd = new Random();
