@@ -33,7 +33,8 @@ public class IMAGES {
             R.drawable.im_cheeky,
             R.drawable.im_cooking,
             R.drawable.im_working,
-            R.drawable.im_relaxed
+            R.drawable.im_relaxed,
+            R.drawable.im_focus
     };
 
     private static final Random rnd = new Random();
